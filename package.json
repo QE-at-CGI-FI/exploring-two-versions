@@ -1,0 +1,23 @@
+{
+  "name": "exploring-two-versions",
+  "version": "1.0.0",
+  "description": "Keeping the apps and their code separate from exploring. A demo setup.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QE-at-CGI-FI/exploring-two-versions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/QE-at-CGI-FI/exploring-two-versions/issues"
+  },
+  "homepage": "https://github.com/QE-at-CGI-FI/exploring-two-versions#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
