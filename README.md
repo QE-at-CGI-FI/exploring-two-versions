@@ -13,4 +13,6 @@ Install playwright npm init playwright@latest
 
 Install agents npx playwright init-agents --loop=vscode
 
-Install playwright CLI npm install -g @playwright/cli@latest playwright-cli install --skills
+Install playwright CLI npm install -g @playwright/cli@latest
+
+Install skills playwright-cli install --skills
