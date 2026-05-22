@@ -1,5 +1,7 @@
 # The Enchanted Brew Shop — Feature Outline
 
+URL: https://qe-at-cgi-fi.github.io/two-versions/version2/
+
 ## Header / Navigation
 
 - Shop name and tagline ("Handcrafted potions since 1247")
